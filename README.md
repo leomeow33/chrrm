@@ -1,0 +1,2 @@
+# chrrm
+This is the raw data for our paper: Constructing Chinese taxonomy trees from understanding and generative pretrained language models, it contains dataset for reproducing our experiment about Hypernymy Relationship Recognition. 
